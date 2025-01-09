@@ -82,5 +82,5 @@ You can view and interact with the interactive dashboard [here](https://app.powe
 ---
 
 ### Notes
-- Please refer to the [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjg0NjBiOWYtNGU1NS00NTkyLTk2ODktMmU0MWRkYjM5NTlhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true) for visualization.
+- Please refer to the [Dashboard](https://github.com/kumarmohit108/Employee-Presence-insights-dashboeard/blob/main/HR%20Analytics%20Atliq_mahi%20(1).pdf) for visualization.
 - Contributions, feedback, and suggestions are welcome. Feel free to open an issue or submit a pull request.
